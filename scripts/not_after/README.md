@@ -17,8 +17,11 @@ Use it in External filters if you want autobrr to reject everything after a give
 For example in a limited global freeleech, you don't want to download anything after FL ends.
 
 External / add External Filter
+
 Type = Exec
+
 Path to executable = ~/not_after.sh
+
 Exec arguments = "2024-12-31" "22:30:00"
 
 Test in your shell:

@@ -1,4 +1,4 @@
-Python scripts to check the health of RSS feeds
+Python script to check the health of RSS feeds
 
 NB: I don't have any Usenet indexers so I don't know if it handles Newsnab feeds correctly
 
@@ -39,5 +39,6 @@ $ ./autobrr_check_feeds.py --all
   1 Indexer01 (RSS)                              50 2025-09-03 14:58:44 OK
   
   2 Indexer02 (Prowlarr)                         25 2025-09-03 15:00:06 OK
+
 
 

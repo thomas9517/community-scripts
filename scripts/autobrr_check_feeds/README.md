@@ -10,6 +10,7 @@ username: <autobrr_username>
 password: <autobrr_password>
 api_token: <autobrr_api_token>
 ```
+
 The script will either print a list of problems or a success message if everything is fine.
 
 Parameter '--all' will print a list of all feeds with their status.
@@ -34,6 +35,7 @@ $ ./autobrr_check_feeds.py --all
   1 Indexer01 (RSS)                              50 2025-09-03 14:58:44 OK
   2 Indexer02 (Prowlarr)                         25 2025-09-03 15:00:06 OK
 ```
+
 
 
 
